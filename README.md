@@ -12,12 +12,12 @@ Este proyecto es una galería de lugares para visitar desarrollado con HTML, CSS
 
 
 ## :computer:Tecnologías utilizadas
-HTML
-CSS
-JavaScript
+- `HTML`
+- `CSS`
+- `JavaScript`
 
 
-##:pager:¿Cómo puedo probar el proyecto?
+## :pager:¿Cómo puedo probar el proyecto?
 Para probar la galería de lugares a visitar, puedes clonar este repositorio en tu computadora local y abrir el archivo index.html en tu navegador web. También puedes acceder a la galería en línea a través de GitHub Pages, en el siguiente enlace: [https://yoviajomucho.000webhostapp.com/].
 
 ## :construction_worker:Autor
